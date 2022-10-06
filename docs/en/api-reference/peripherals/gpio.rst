@@ -164,32 +164,32 @@ Overview
        * - GPIO34
          - ADC1_CH6
          - RTC_GPIO4
-         - GPI
+         - GPI (Input only)
 
        * - GPIO35
          - ADC1_CH7
          - RTC_GPIO5
-         - GPI
+         - GPI (Input only)
 
        * - GPIO36
          - ADC1_CH0
          - RTC_GPIO0
-         - GPI
+         - GPI (Input only)
 
        * - GPIO37
          - ADC1_CH1
          - RTC_GPIO1
-         - GPI
+         - GPI (Input only)
 
        * - GPIO38
          - ADC1_CH2
          - RTC_GPIO2
-         - GPI
+         - GPI (Input only)
 
        * - GPIO39
          - ADC1_CH3
          - RTC_GPIO3
-         - GPI
+         - GPI (Input only)
 
     .. note::
 
